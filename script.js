@@ -44,7 +44,7 @@ form.addEventListener('submit', async e => {
         cardPrice.target = '_blank'
 
         cardElement.appendChild(cardImage);
-        cardElement.appendChild(cardTitle);``
+        cardElement.appendChild(cardTitle);
         cardElement.appendChild(cardType);
         cardElement.appendChild(cardDesc);
         cardElement.appendChild(cardPrice);
